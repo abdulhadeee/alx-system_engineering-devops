@@ -1,2 +1,2 @@
 #!/bin/bash
-chown 733 
+chmod ugo+x hello
